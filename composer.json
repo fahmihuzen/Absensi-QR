@@ -1,0 +1,7 @@
+{
+    "name": "62851/ippl",
+    "require": {
+        "composer": "^2.8",
+        "endroid/qr-code": "^4.6"
+    }
+}
